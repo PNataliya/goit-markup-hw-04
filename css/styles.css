@@ -635,6 +635,10 @@ SECTION Постоянные клиенты - end
   padding-bottom: 60px;
   background: #2f303a;
 }
+/* 
+.footer-box-icon {
+  padding-bottom: 30px;
+} */
 
 .address {
   margin-bottom: 9px;
@@ -685,7 +689,10 @@ margin-right: 70px;
   justify-content: center;
   list-style: none;
   padding-left: 0;
-}
+  padding-bottom: 30px;
+  }
+
+
 
 .footer-socials-item {
   margin-right: 10px;
